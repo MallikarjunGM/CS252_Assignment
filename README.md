@@ -12,7 +12,7 @@ Results:
 
 ![image](https://user-images.githubusercontent.com/77964574/141756245-d931d7ec-d216-4b2a-a51e-17f92c8f670c.png)
 
-#3.21:
+# 3.21:
 ![image](https://user-images.githubusercontent.com/77964574/141756357-8f7aedd9-49eb-4b37-8746-104930e7c454.png)
 File 2.c is the solution for Question number 3.21
 
